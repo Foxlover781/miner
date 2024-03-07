@@ -1,6 +1,6 @@
 > Open this page at [https://makecode.com/_U0w7Vm14h7hF]
 > Open this page at [https://foxlover781.github.io/miner/](https://foxlover781.github.io/miner/)
-
+> Open this page at https://makecode.com/_W7E7LeTHm6L5
 ## Use as Extension
 
 This repository can be added as an **extension** in MakeCode.
