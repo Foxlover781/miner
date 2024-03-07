@@ -1,4 +1,4 @@
-
+> Open this page at [https://makecode.com/_U0w7Vm14h7hF]
 > Open this page at [https://foxlover781.github.io/miner/](https://foxlover781.github.io/miner/)
 
 ## Use as Extension
